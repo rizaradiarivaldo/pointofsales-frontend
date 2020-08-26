@@ -13,3 +13,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35928196-0406-4124-9adb-8e69023473f0/deploy-status)](https://app.netlify.com/sites/pointofsale-rizaradiarivaldo/deploys)
 
 
+
+this is my first front end project point of sales, using html, css, javascript and bootstrap framework. I'm proud of myself ❤
